@@ -1,0 +1,1 @@
+1.往vector里添加元素时，为什么res.push_back（input[i]）正确，而res[i]=input[i]会报错，提示数组越界。
